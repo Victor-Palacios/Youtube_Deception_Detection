@@ -1,2 +1,3 @@
-# Youtube_Deception_Detection
-Slides and relevant material for my YouTube deception detection video
+# Slides and Data for Youtube Video on Deception Detection with spaCy
+
+A case study of data-driven deception detection and how to expand the scale of that study by using spaCy.
